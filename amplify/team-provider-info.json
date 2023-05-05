@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cognitivegameday-staging-173359-authRole",
+      "UnauthRoleArn": "arn:aws:iam::601488025135:role/amplify-cognitivegameday-staging-173359-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::601488025135:role/amplify-cognitivegameday-staging-173359-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-cognitivegameday-staging-173359-deployment",
+      "UnauthRoleName": "amplify-cognitivegameday-staging-173359-unauthRole",
+      "StackName": "amplify-cognitivegameday-staging-173359",
+      "StackId": "arn:aws:cloudformation:us-east-2:601488025135:stack/amplify-cognitivegameday-staging-173359/daf75570-eaa1-11ed-85d2-069480f21805",
+      "AmplifyAppId": "d2ot16lwryq8f7"
+    },
+    "categories": {
+      "auth": {
+        "CognitiveGameDay": {}
+      }
+    }
+  }
+}
